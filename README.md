@@ -21,7 +21,7 @@ This Streamlit application generates creative text formats about Philippine hist
 - **Streamlit App**: A functional Streamlit application showcasing the multi-level prompting and GPT-3 integration.
 - **Github Repository**: Upload your entire project code to a public Github repository.
   
-## Project Setup for Users
+## Project Setup for Users who are interested in Text Generator with APIs
 
 1. **Clone the Repository:**
 
