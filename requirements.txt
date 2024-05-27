@@ -1,0 +1,7 @@
+altair
+click
+streamlit
+requests
+protobuf
+google-generativeai
+gemini
