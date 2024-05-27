@@ -2,7 +2,7 @@
 
 This Streamlit application generates creative text formats about Philippine history and José Rizal using google api key to help incoming students in learning and appreciating the rich history of the Philippines. Users can select a category related to Philippine history, choose a specific topic within that category, provide a prompt to guide the text generation, and generate creative text based on their input.
 <br>Created and Coded by: Fatima Grace Apinan<br>
-<br>West Visayas State University<br>
+West Visayas State University<br>
 BSCS-3B AI
 
 ### Functionalities of the Project
