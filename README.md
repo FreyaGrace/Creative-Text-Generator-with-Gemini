@@ -41,7 +41,7 @@ This Streamlit application generates creative text formats about Philippine hist
     pip install -r requirements.txt
     ```
 
-4. **Set Up OpenAI API Key:**
+4. **Set Up API Key:**
 
     - Sign up for an account on the google cloud platform and obtain your API key.
     - Set your API key as an environment variable and directly replace the placeholder in the `gemini.py` file.
