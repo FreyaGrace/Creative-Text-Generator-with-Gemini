@@ -11,7 +11,7 @@ This Streamlit application generates creative text formats about Philippine hist
 
 1. **Multi-Level Prompting**: The application interacts with users through multiple levels of prompts, refining the creative direction at each level. Users progress through the prompts until reaching the final prompt.
 
-2. **GPT-3 Integration**: OpenAI's GPT-3 API is utilized to generate creative text formats based on the user's prompts and choices. The generated text reflects the input provided by the user.
+2. **API Integration**: Google Gemini's API is utilized to generate creative text formats based on the user's prompts and choices. The generated text reflects the input provided by the user.
 
 3. **User Interface**: The Streamlit interface guides users through the prompting process, allowing them to input prompts, make choices, and view the generated creative text. The interface is designed to be intuitive and user-friendly.
 
